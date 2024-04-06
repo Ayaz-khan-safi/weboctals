@@ -1,0 +1,23 @@
+@import "../public/css/plugins.css";
+@import "../public/css/style.css";
+@import "./glitch.css";
+@import "./mfp.css";
+
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "swiper/css/scrollbar";
+@import "swiper/css/effect-fade";
+
+html {
+  scroll-behavior: smooth;
+}
+.mers_tm_partners .swiper-slide {
+  opacity: 0.4;
+}
+.mers_tm_partners .swiper-slide:hover {
+  opacity: 1;
+}
+.c-pointer {
+  cursor: pointer;
+}
