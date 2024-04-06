@@ -29,7 +29,7 @@ const Service = () => {
                 <li>
                   <div className="list_inner  tilt-effect">
                     <span className="icon">
-                      <img className="svg" src="img/svg/monitor.svg" alt="" />
+                      <img className="svg" src="img/svg/1.svg" alt="" />
                     </span>
                     <h3 className="title">IT consultancy</h3>
                     <p className="text">
@@ -48,7 +48,7 @@ const Service = () => {
                     {/* Modalbox Info Start */}
                     <img
                       className="popup_service_image"
-                      src="img/service/1.jpg"
+                      src="img/service/1.svg"
                       alt=""
                     />
                     {/* /Modalbox Info End */}
@@ -57,7 +57,7 @@ const Service = () => {
                 <li>
                   <div className="list_inner tilt-effect">
                     <span className="icon">
-                      <img className="svg" src="img/svg/mouse.svg" alt="" />
+                      <img className="svg" src="img/svg/2.svg" alt="" />
                     </span>
                     <h3 className="title">Video Game Development</h3>
                     <p className="text">
@@ -76,7 +76,7 @@ const Service = () => {
                     {/* Modalbox Info Start */}
                     <img
                       className="popup_service_image"
-                      src="img/service/2.jpg"
+                      src="img/service/2.svg"
                       alt=""
                     />
                     {/* /Modalbox Info End */}
@@ -85,7 +85,7 @@ const Service = () => {
                 <li>
                   <div className="list_inner tilt-effect">
                     <span className="icon">
-                      <img className="svg" src="img/svg/layer.svg" alt="" />
+                      <img className="svg" src="img/svg/3.svg" alt="" />
                     </span>
                     <h3 className="title">SAAP</h3>
                     <p className="text">
@@ -104,7 +104,7 @@ const Service = () => {
                     {/* Modalbox Info Start */}
                     <img
                       className="popup_service_image"
-                      src="img/service/3.jpg"
+                      src="img/service/3.svg"
                       alt=""
                     />
 
@@ -114,7 +114,7 @@ const Service = () => {
                 <li>
                   <div className="list_inner tilt-effect">
                     <span className="icon">
-                      <img className="svg" src="img/svg/laptop.svg" alt="" />
+                      <img className="svg" src="img/svg/4.svg" alt="" />
                     </span>
                     <h3 className="title">Cloud Computing Solutions</h3>
                     <p className="text">

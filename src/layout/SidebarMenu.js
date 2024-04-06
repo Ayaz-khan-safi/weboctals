@@ -50,7 +50,7 @@ const SidebarMenu = () => {
             </div>
           </div>
         </div>
-        <div className="copyright">
+        {/* <div className="copyright">
           <p>
             © 2024 by{" "}
             <a
@@ -61,7 +61,7 @@ const SidebarMenu = () => {
               Consultancy Outfit.
             </a>
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
