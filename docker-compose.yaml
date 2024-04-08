@@ -1,0 +1,10 @@
+version: '3'
+services:
+  ceative-sales-site:
+    container_name: ceative-sales-site
+    build:
+      dockerfile: Dockerfile
+      context: .
+    ports:
+      - "3026:3000"
+ 
