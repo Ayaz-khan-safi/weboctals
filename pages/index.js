@@ -8,6 +8,7 @@ import Service from "../src/components/Service";
 import Skills from "../src/components/Skills";
 import Testimonials from "../src/components/Testimonials";
 import Layout from "../src/layout/Layout";
+import Footer from "../src/components/Footer";
 
 
 const Portfolio = dynamic(() => import("../src/components/Portfolio"), {
@@ -45,28 +46,22 @@ const Index = () => {
       {/* /NEWS */}
       {/* CONTACT */}
       <Contact />
-      <div>
-
-      </div>
-
-
-
+   <Footer/>
      </Layout>
-           <footer className="footer">
-           {/* Logo on the left */}
-           <div className="footer-left">
-           <a href="/">
-              <img src="img/logo/Logo.svg" alt="" />
-            </a>           </div>
-           
-           {/* Links in the middle */}
-           <div className="footer-center">
-               <a href="/terms-and-conditions">Terms & Conditions</a>
-               <a href="/privacy-policy">Privacy Policy</a>
-           </div>
-           
-       </footer>
+
        </>
   );
 };
 export default Index;
+{/* <footer className="footer">
+<div className="footer-left">
+<a href="/">
+   <img src="img/logo/Logo.svg" alt="" />
+ </a>           </div>
+
+<div className="footer-center">
+    <a href="/terms-and-conditions">Terms & Conditions</a>
+    <a href="/privacy-policy">Privacy Policy</a>
+</div>
+
+</footer> */}

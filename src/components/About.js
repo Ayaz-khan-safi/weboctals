@@ -29,7 +29,7 @@ const About = () => {
               </div>
               <div className="info">
                 <h3 className="address">
-                123 Main Street, London WC1X 0AA,{" "}
+                123 Main Street, London WC1X 0AA,{" "}<br/>
                   <span className="colored">United Kingdom.</span>
                 </h3>
                 {/* <div className="list">

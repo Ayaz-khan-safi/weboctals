@@ -106,7 +106,7 @@ const Contact = () => {
               </div>
               <div className="infos">
                 <div className="address">
-                  <h3>
+                  <h3 style={{fontSize:"20px"}}>
                   123 Main Street, London WC1X 0AA,{" "}
                     <span className="colored">United Kingdom.</span>
                   </h3>
