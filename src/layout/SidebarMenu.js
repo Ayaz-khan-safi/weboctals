@@ -4,7 +4,7 @@ const SidebarMenu = () => {
       <div className="leftpart_inner">
         <div className="logo">
           <a href="#">
-            <img src="img/logo/Logo.svg" alt="" />
+            <img src="img/logo/Logo-ceative.svg" alt="" />
           </a>
         </div>
         <div className="menu scrollable">

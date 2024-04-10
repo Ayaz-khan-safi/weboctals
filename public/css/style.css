@@ -3305,6 +3305,12 @@ input[type="number"] {
     font-size: 23px;
   }
 
+  .mers_tm_hero .spanhello {
+    display: inline-block;
+    color: var(--extra-color);
+    font-size: 70px;
+  }
+
   .mers_tm_hero .name {
     font-size: 70px;
   }

@@ -37,7 +37,7 @@ const Portfolio = () => {
                     </div>
                     <div className="details">
                       <h3 className="title">
-                        <a href="#">Creative Art</a>
+                        <a href="#">Ceative Art</a>
                       </h3>
                       <span className="category">
                         <a className="animation_link" href="#">

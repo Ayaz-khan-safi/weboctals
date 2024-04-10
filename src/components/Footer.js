@@ -12,7 +12,7 @@ function Footer() {
             <div style={{ display: 'flex', flexWrap:"wrap", alignItems: 'center', justifyContent: "space-between", height: "200px" }}>
               <div className="footer-left">
               <a href="/">
-                <img src="img/logo/Logo-dark.svg" alt="" />
+                <img src="img/logo/Logo-ceative-dark.svg" alt="logo" />
               </a>
               </div>
               <div style={{display:'flex', gap:"15px",alignItems: "center",color:"white"}}>

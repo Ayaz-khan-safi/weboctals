@@ -21,7 +21,7 @@ const About = () => {
               </div>
               <div className="text">
                 <p>
-                At Creative Limited, we're a collective of visionary minds dedicated to redefining the landscape of creative expression. 
+                At Ceative Limited, we're a collective of visionary minds dedicated to redefining the landscape of Ceative expression. 
                 To be the catalyst for groundbreaking creativity, inspiring individuals and businesses alike to push beyond conventional
                  boundaries We strive to empower our clients with imaginative solutions that captivate, resonate, and elevate their brands
                   to new heights.

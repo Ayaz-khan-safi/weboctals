@@ -38,7 +38,7 @@ const DetailsPopup = ({ close }) => {
                   on our ideas as flexibly as possible.
                 </p>
                 <p>
-                  Mockups are useful both for the creative phase of the project
+                  Mockups are useful both for the ceative phase of the project
                   - for instance when {`you're`} trying to figure out your user
                   flows or the proper visual hierarchy - and the production
                   phase when they phase when they will represent the target

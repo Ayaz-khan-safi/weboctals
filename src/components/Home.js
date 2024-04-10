@@ -12,9 +12,9 @@ const Home = () => {
           <div className="content">
             <div className="in">
               <span className="hello">Welcome to</span>
-              <h3 className="name">CEATIVE LIMITED</h3>
+              <h3 className="name"><span className="spanhello">CEATIVE</span> LIMITED</h3>
               <p className="text">
-              Empower Your Imagination with Creative Limited.
+              Empower Your Imagination with Ceative Limited.
               </p>
               <div className="mers_tm_button">
                 <a className="anchor" href="#contact">

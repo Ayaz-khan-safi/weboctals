@@ -16,7 +16,7 @@ const TermsAndConditions = () => {
 <p>Ceative Limited places paramount importance on user privacy and is committed to protecting personal information. Our Privacy Policy explains how we collect, use, and disclose personal data while providing services. By using our services, users explicitly consent to the outlined data practices.</p>
 
 <h3>Cookie Policy</h3>
-<p>Our Cookie Policy explains how Creative Limited utilizes cookies and comparable tracking technologies to enrich user experiences and analyze patterns of website usage. By continuing to use our website, users consent to the use of cookies as detailed in the Cookie Policy.</p>
+<p>Our Cookie Policy explains how Ceative Limited utilizes cookies and comparable tracking technologies to enrich user experiences and analyze patterns of website usage. By continuing to use our website, users consent to the use of cookies as detailed in the Cookie Policy.</p>
 
 <h3>Limitation of Liability</h3>
 <p>Ceative Limited bears no responsibility for any direct, indirect, incidental, special, or consequential damages resulting from the use of our services. This includes but is not limited to loss of revenue, profits, or data. By accessing our services, users acknowledge and accept this limitation of liability.</p>
