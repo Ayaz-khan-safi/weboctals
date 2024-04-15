@@ -11,7 +11,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           {/* Add favicon to the <head> */}
-          <link rel="shortcut icon" href="/favicon.png" />
+          <link rel="shortcut icon" href="/Favicon-ceative.svg" />
         </Head>
         <body>
           <Main />
