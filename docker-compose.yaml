@@ -1,10 +1,19 @@
-version: '3'
+version: '3.8'
+
 services:
-  ceative-sales-site:
-    container_name: ceative-sales-site
+
+  ceative:
+
+    container_name: ceative-salessite
+
     build:
+
       dockerfile: Dockerfile
+
       context: .
+
+    image: ceative-salessite-image
+
     ports:
-      - "3026:3000"
- 
+
+      - "9027:3000"
