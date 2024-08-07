@@ -1,19 +1,15 @@
 version: '3.8'
-
 services:
-
   ceative:
-
-    container_name: ceative-salessite
-
-    build:
-
-      dockerfile: Dockerfile
-
-      context: .
-
-    image: ceative-salessite-image
-
+    image: '423409732955.dkr.ecr.us-east-1.amazonaws.com/ceative-salesite:main-72023df'
+    container_name: ceative-salesite
+    restart: unless-stopped
     ports:
+      - '9027:3000'
+    networks:
+      - external_salesite__network
 
-      - "9027:3000"
+networks:
+  external_salesite__network:
+    external: true
+
