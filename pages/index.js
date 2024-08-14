@@ -30,7 +30,7 @@ const Index = () => {
       <Service />
       {/* /SERVICE */}
       {/* PORTFOLIO */}
-      {/* <Portfolio /> */}
+      <Portfolio />
       {/* /PORTFOLIO */}
       {/* SKILLS */}
       {/* <Skills /> */}
@@ -39,14 +39,14 @@ const Index = () => {
       {/* <Pricing /> */}
       {/* /PRICING */}
       {/* TESTIMONIALS */}
-      {/* <Testimonials /> */}
+      <Testimonials />
       {/* /TESTIMONIALS */}
       {/* NEWS */}
       {/* <News /> */}
       {/* /NEWS */}
       {/* CONTACT */}
       <Contact />
-   <Footer/>
+   {/* <Footer/> */}
      </Layout>
 
        </>

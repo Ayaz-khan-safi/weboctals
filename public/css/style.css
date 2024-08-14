@@ -33,8 +33,8 @@ a {
 :root {
   --main-color: #988c86;
   --extra-color: #df5646;
-  --font-family: "Inter", sans-serif;
-  --font-family-extra: "Playfair Display", serif;
+  --font-family: "Outfit", sans-serif;
+  --font-family-extra: "Outfit", sans-serif;
 }
 
 .colored {

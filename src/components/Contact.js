@@ -9,33 +9,33 @@ const Contact = () => {
             <div className="main_title">
               <div className="text">
                 <h3>
-                  I want to hear from you please{" "}
-                  <span className="colored">contact me!</span>
+                Ready to Create?{" "}
+                  <span className="colored">Let’s Discuss!</span>
                 </h3>
               </div>
               <div className="contact_social">
                 <ul>
-                  <li>
+                  {/* <li>
                     <a href="#" dangerouslySetInnerHTML={{ __html: fb }}></a>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <a
                       href="#"
                       dangerouslySetInnerHTML={{ __html: twitter }}
                     ></a>
-                  </li>
+                  </li> */}
                   <li>
                     <a
-                      href="#"
+                      href="https://www.linkedin.com/company/weboctals/"
                       dangerouslySetInnerHTML={{ __html: linkedin }}
                     ></a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a
                       href="#"
                       dangerouslySetInnerHTML={{ __html: instagram }}
                     ></a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -60,14 +60,7 @@ const Contact = () => {
                         <label htmlFor="name">Full Name:</label>
                         <input id="name" type="text" placeholder="Your Name" />
                       </li>
-                      <li>
-                        <label htmlFor="name">Subject:</label>
-                        <input
-                          id="subject"
-                          type="text"
-                          placeholder="Your Subject"
-                        />
-                      </li>
+
                       <li>
                         <label htmlFor="name">Your Email:</label>
                         <input
@@ -85,9 +78,11 @@ const Contact = () => {
                         />
                       </li>
                     </ul>
+                    
                   </div>
+                  
                   <div className="message_area">
-                    <label htmlFor="name">Message:</label>
+                    <label htmlFor="message">Message:</label>
                     <textarea
                       id="message"
                       placeholder="Write your message here"
@@ -107,7 +102,7 @@ const Contact = () => {
               <div className="infos">
                 <div className="address">
                   <h3 style={{fontSize:"20px"}}>
-                  123 Main Street, London WC1X 0AA,{" "}
+                  Weboctals, 2 Wellington Pl, Leeds LS1 4AP,{" "}
                     <span className="colored">United Kingdom.</span>
                   </h3>
                 </div>
@@ -121,8 +116,8 @@ const Contact = () => {
                         <div className="short">
                           <span>Contact Phone</span>
                           <h3>
-                            <a className="animation_link" href="#">
-                            +123-456-7890
+                            <a className="animation_link" href="tel:+447442410345">
+                            +44 7442 410345
                             </a>
                           </h3>
                         </div>
@@ -138,9 +133,9 @@ const Contact = () => {
                           <h3>
                             <a
                               className="animation_link"
-                              href="mailto:info@Ceativeltd.co.uk"
+                              href="mailto:info@Weboctals.com"
                             >
-info@Ceativeltd.co.uk                            </a>
+info@Weboctals.com                            </a>
                           </h3>
                         </div>
                       </div>
@@ -149,23 +144,12 @@ info@Ceativeltd.co.uk                            </a>
                 </div>
                 <div className="copyright">
                   <p>
-                    Design By{" "}
-                    <a
-                      href="https://themeforest.net/user/Codeefly"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Consultancy Outfit.
-                    </a>
-                  </p>
-                  <p>
                     © 2024 by{" "}
                     <a
                       href="https://themeforest.net/user/Codeefly/portfolio"
                       target="_blank"
                       rel="noreferrer"
-                    >
-                      ceative.
+                    >weboctals.
                     </a>{" "}
                     All rights reserved.
                   </p>

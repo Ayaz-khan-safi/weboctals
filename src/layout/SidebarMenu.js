@@ -18,9 +18,9 @@ const SidebarMenu = () => {
             <li>
               <a href="#service">Service</a>
             </li>
-            {/* <li>
+            <li>
               <a href="#portfolio">Portfolio</a>
-            </li> */}
+            </li>
             {/* <li>
               <a href="#news">News</a>
             </li> */}
@@ -35,7 +35,7 @@ const SidebarMenu = () => {
           </div>
           <div className="mers_tm_subscribe">
             <div className="sub_form">
-              <input type="text" placeholder="info@Ceativeltd.co.uk" />
+              <input type="text" placeholder="info@weboctals.com" />
               <a href="#">
                 <img src="img/svg/newsletter.svg" alt="" className="svg" />
               </a>
@@ -54,11 +54,10 @@ const SidebarMenu = () => {
           <p>
             © 2024 by{" "}
             <a
-              href="https://themeforest.net/user/Codeefly"
-              target="_blank"
+              href="/"
               rel="noreferrer"
             >
-              Consultancy Outfit.
+              WebOctals.
             </a>
           </p>
         </div>

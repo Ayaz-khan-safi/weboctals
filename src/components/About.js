@@ -17,11 +17,11 @@ const About = () => {
             <div className="right">
               <div className="mers_tm_title" data-text-align="left">
                 <span>There is all</span>
-                <h3>About Us</h3>
+                <h3>Who we are</h3>
               </div>
               <div className="text">
                 <p>
-                At Ceative Limited, we're a collective of visionary minds dedicated to redefining the landscape of Ceative expression. 
+                At WebOctals Limited, we're a collective of visionary minds dedicated to redefining the landscape of WebOctals expression. 
                 To be the catalyst for groundbreaking creativity, inspiring individuals and businesses alike to push beyond conventional
                  boundaries We strive to empower our clients with imaginative solutions that captivate, resonate, and elevate their brands
                   to new heights.
@@ -29,7 +29,7 @@ const About = () => {
               </div>
               <div className="info">
                 <h3 className="address">
-                123 Main Street, London WC1X 0AA,{" "}<br/>
+                Weboctals, 2 Wellington Pl, Leeds LS1 4AP<br/>
                   <span className="colored">United Kingdom.</span>
                 </h3>
                 {/* <div className="list">

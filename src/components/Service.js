@@ -22,7 +22,8 @@ const Service = () => {
           <div className="container">
             <div className="mers_tm_title" data-text-align="center">
               <span>Why Choose Us</span>
-              <h3>Our Work Services</h3>
+              <h3>Our Expert IT Services
+              </h3>
             </div>
             <div className="service_list">
               <ul>
